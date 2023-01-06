@@ -2372,7 +2372,7 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: hsl(35, 100%, 51%) 100%, 51%);
+  background-color:( hsl(35, 100%, 51%) 100%, 51%);
   border-color: #CA0000;
 }
 
@@ -9623,7 +9623,7 @@ h4, h5, h6 {
 .bg-gallery {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/gift\ clinic\ waiting\ room.jpg), no-repeat center center;
   background-size: cover;
-  loading:eager;
+  
 }
 
 .gallery-carousel .owl-nav,
